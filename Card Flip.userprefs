@@ -1,0 +1,18 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\GameScript.cs">
+    <Files>
+      <File FileName="Assets\Scripts\TitleScript.cs" Line="26" Column="4" />
+      <File FileName="Assets\Scripts\GameScript.cs" Line="166" Column="25" />
+      <File FileName="Assets\Scripts\TimerScript.cs" Line="22" Column="19" />
+      <File FileName="Assets\Scripts\Sounds.cs" Line="15" Column="3" />
+      <File FileName="Assets\Scripts\LoadTitle.cs" Line="6" Column="15" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint enabled="false" file="D:\PC_dev\Unity Projects\Card Flip\Assets\Scripts\GameScript.cs" line="5" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

@@ -1,0 +1,23 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{4EE2399D-2574-D05A-FB13-E4A3761CFB13}") = "Card Flip", "Assembly-CSharp.csproj", "{1EFD52D8-55DC-A11E-91F5-908F27A8C693}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1EFD52D8-55DC-A11E-91F5-908F27A8C693}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1EFD52D8-55DC-A11E-91F5-908F27A8C693}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1EFD52D8-55DC-A11E-91F5-908F27A8C693}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1EFD52D8-55DC-A11E-91F5-908F27A8C693}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
